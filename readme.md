@@ -1,7 +1,7 @@
 # Playground
 
 In this repository I will commit sources from different exercises and other small tasks.
-
+This is playground project.
 * [Advent of Code - online competition][8]
 * [Exercism][9]
 * [Sofia University: Faculty of Mathematics and Informatics Classes][1]
